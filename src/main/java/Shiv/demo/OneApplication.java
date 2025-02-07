@@ -10,6 +10,8 @@ public class OneApplication {
 		SpringApplication.run(OneApplication.class, args);
 
 
+
+		
 	}
 
 }
